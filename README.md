@@ -3,7 +3,10 @@
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joyce-amaral-programacao/)
 
+<!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Joyamarall&hide=javascript,html) -->
+
 ![Joyce GitHub stats](https://github-readme-stats.vercel.app/api?username=Joyamarall&show_icons=true&theme=dracula)
+
 
 ## Tecnologias mais utilizadas
 
